@@ -1,0 +1,1 @@
+\copy (SELECT * FROM service_centers_schema.services) TO 'C:\Users\Programs\Desktop\services.csv' WITH CSV HEADER
